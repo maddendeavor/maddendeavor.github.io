@@ -7,7 +7,7 @@ from distutils.core import setup
 # TEMPLATE
 setup(
     name='maddendeavor-website',
-    version='0.0',
+    version='1.0',
     description='website for my business Maddendeavor, LLC',
     long_description=open('README.rst').read(),
     author='Christine Madden',
@@ -16,6 +16,10 @@ setup(
     packages=['maddendeavor_website'],
     install_requires=[
         "flask",
+        "flask-blogging",
+        "flask-bootstrap",
+        "gunicorn",
+
     ],
     entry_points={
         'console_scripts':
