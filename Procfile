@@ -1,1 +1,1 @@
-web: gunicorn maddendeavor-website:app
+web: gunicorn app:app
