@@ -12,7 +12,7 @@ Flask-WTF==0.14.3
 gunicorn==20.0.4
 importlib-metadata==3.4.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Markdown==3.3.3
 MarkupSafe==1.1.1
 -e git+https://github.com/maddendeavor/maddendeavor.github.io.git@develop#egg=maddendeavor.github.io.git
