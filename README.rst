@@ -46,7 +46,7 @@ Development
 ~~~~~~~~~~~
 Decided to follow suggestions from various blogs and run a basic flask instance of a static style website.
 For development, can run the website locally by pip installing into a .venv.  After activating can then
-run the command `run flask` to check out the website design.
+run the command `flask run` to check out the website design.
 
 
 Project Credits
